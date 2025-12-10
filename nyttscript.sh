@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 #
 # Detta script samlar in systeminformation - RECON
 #
